@@ -1,0 +1,30 @@
+[
+  {
+    "std_id": "1",
+    "std_name": "Vimalkumar",
+    "std_age": 24,
+    "std_course": "rcse",
+    "std_marks": 2.5
+  },
+  {
+    "std_id": "2",
+    "std_name": "yash",
+    "std_age": 25,
+    "std_course": "logistic",
+    "std_marks": 3.5
+  },
+  {
+    "std_id": "3",
+    "std_name": "Milan",
+    "std_age": 28,
+    "std_course": "camicals engineer",
+    "std_marks": 1.0
+  },
+  {
+    "std_id": "4",
+    "std_name": "JAGANI",
+    "std_age": 24,
+    "std_course": "logistic",
+    "std_marks": 3.0
+  }
+]
