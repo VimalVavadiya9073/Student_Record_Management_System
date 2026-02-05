@@ -19,4 +19,3 @@ The project is created for learning Python basics.
 1. Clone the repository
 2. Run the file:
    python main.py
-
