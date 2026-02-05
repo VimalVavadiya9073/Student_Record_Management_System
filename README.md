@@ -20,5 +20,3 @@ The project is created for learning Python basics.
 2. Run the file:
    python main.py
 
-## Author
-Beginner Python Developer
